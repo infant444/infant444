@@ -3,7 +3,7 @@
 <!-- Optionally, you can add a banner or badge here -->
 
 ## 🚀 About Me
-I’m a passionate  developer from Tamil Nadu, India, focused on building intelligent and useful software solutions.
+I’m a passionate MEAN Stack developer from Tamil Nadu, India, focused on building intelligent and useful software solutions.
 
 - 🔭 I’m currently working on a **business management web app** combining inventory, timesheets, and marketing tools and **Event management web app** combaining with AI, Calander.
 - 🌱 I’m currently learning **AI agents**, **PostgreSQL advanced features**, and **React + Next.js stack**.
