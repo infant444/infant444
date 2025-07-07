@@ -1,18 +1,33 @@
+# 👋 Hi, I'm Infant Raj S. (@infant444)
 
-<!--
-**infant444/infant444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Optionally, you can add a banner or badge here -->
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a passionate  developer from Tamil Nadu, India, focused on building intelligent and useful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a **business management web app** combining inventory, timesheets, and marketing tools and **Event management web app** combaining with AI, Calander.
+- 🌱 I’m currently learning **AI agents**, **PostgreSQL advanced features**, and **React + Next.js stack**.
+- 🧠 Exploring **AI-powered features** like smart comment management, auto-replies, and content analysis.
+- 👯 I’m looking to collaborate on **AI-integrated full-stack projects**.
+- 🤔 I’m looking for help with **growing and launching my startup** idea.
+- 💬 Ask me about **Angular**, **PostgreSQL**, **TypeScript**, **React/Vite**, and **AI integrations**.
+- 📫 How to reach me: [Instagram @infant_444](https://instagram.com/infant_444)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe every product should solve a real problem — beautifully and intelligently.
+
+## 🛠️ Tech Stack
+- **Frontend**: Angular, React, HTML, CSS, Tailwind, Bootstrap  
+- **Backend**: Node.js, Express.js, TypeScript  
+- **Database**: PostgreSQL, Firebase  
+- **AI/ML**: OpenAI API, n8n automation  
+- **Other Tools**: Git, Docker, Vite, GitHub Actions
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=infant444&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect With Me
+[Instagram](https://instagram.com/infant_444) • [GitHub](https://github.com/infant444)  • [LinkedIn](https://www.linkedin.com/in/infant-raj-s-71aa1623a/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/infant_444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/infant-raj-s-71aa1623a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infant0467@gmail.com) 
