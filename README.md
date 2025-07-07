@@ -11,7 +11,7 @@ I’m a passionate  developer from Tamil Nadu, India, focused on building intell
 - 👯 I’m looking to collaborate on **AI-integrated full-stack projects**.
 - 🤔 I’m looking for help with **growing and launching my startup** idea.
 - 💬 Ask me about **Angular**, **PostgreSQL**, **TypeScript**, **React/Vite**, and **AI integrations**.
-- 📫 How to reach me: [Instagram @infant_444](https://instagram.com/infant_444)
+- 📫 How to reach me: [Instagram @infant_444](https://instagram.com/infant_444) [LinkedIn @Infant Raj S](https://www.linkedin.com/in/infant-raj-s-71aa1623a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe every product should solve a real problem — beautifully and intelligently.
 
@@ -22,11 +22,6 @@ I’m a passionate  developer from Tamil Nadu, India, focused on building intell
 - **AI/ML**: OpenAI API, n8n automation  
 - **Other Tools**: Git, Docker, Vite, GitHub Actions
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=infant444&show_icons=true&theme=tokyonight)
-
-## 🔗 Connect With Me
-[Instagram](https://instagram.com/infant_444) • [GitHub](https://github.com/infant444)  • [LinkedIn](https://www.linkedin.com/in/infant-raj-s-71aa1623a/)
 
 
 ## 🌐 Socials:
